@@ -1,7 +1,7 @@
 <!-- banner -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 
-[![Linkedin: Ajay](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
+[![Linkedin: Irfnmdlptra](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
@@ -16,13 +16,13 @@
   
 - 🌱 I’m currently working on **My Portfolio Website.**
 
-- 💬 Ask me about: **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
+- 💬 Ask me about: **Web Development [HTML, CSS, JS]**
 
-- 📫 How to reach me? **amajaying@gmail.com**
+- 📫 How to reach me? **bangasrat@gmail.com**
 
 - 👀 I am looking to contribute in **Open Source Projects.**
 
-- ⚡ Fun fact? **I am amajaying! ;)**
+- ⚡ Fun fact? **I am irfn! ;)**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
