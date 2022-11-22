@@ -4,7 +4,7 @@
 <div class="banner"  style="display: flex;" style="text-align: center;" style="align-items: center;">
 <img width="340" height="200" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
 <img style="display: flex;" width="320" height="200" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="">
-<img width="340" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img width="320" height="200" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
 </div>
 </div>
 
