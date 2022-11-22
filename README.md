@@ -1,7 +1,7 @@
 <!-- banner -->
-<img width="100%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
+<img width="50%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
 
-[![Linkedin: Irfnmdlptra](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
+[![Linkedin: Irfnmdlptra](https://img.shields.io/badge/-irfn-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
