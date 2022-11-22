@@ -3,8 +3,8 @@
 <div class="container" style="background-color:black ;">
 <div class="banner"  style="display: flex;" style="text-align: center;" style="align-items: center;">
 <img width="282" height="180" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
-
-<img width="282" height="180" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
+<img style="display: flex;" width="240" height="180" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="">
+<img width="262" height="180" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
 </div>
 </div>
 
@@ -32,7 +32,7 @@
 - ⚡ Fun fact? **I am irfn! ;)**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-<img style="display: flex;" width="282" height="200" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="">
+
     <!-- My Social Handles -->
 
 <b>>> Connect with me <<</b>
