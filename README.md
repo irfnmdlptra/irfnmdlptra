@@ -1,11 +1,11 @@
 <!-- banner -->
-<img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
+<video width="100%" src="https://www.youtube.com/watch?v=jGp9lOCy9DY"></video>
 
 [![Linkedin: Irfnmdlptra](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
-<h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Ajay Khatri.</h3>
+<h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Irfan Syahputra.</h3>
 <hr>
 <br>
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
