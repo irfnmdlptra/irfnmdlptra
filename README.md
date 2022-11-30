@@ -3,7 +3,7 @@
 <div class="container" style="background-color:black ;">
 <div class="banner"  style="display: flex;" style="text-align: center;" style="align-items: center;">
 
-<img style="display: flex;" align="center" width="25%" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="">
+ <img width="100%" height="" src="https://indoanalytica.com/static/images/bannerr.gif" alt="">
 
 </div>
 </div>
@@ -20,7 +20,9 @@
 
 <!-- My Details -->
 <p>
-  
+ 
+   <img align="right" width="40%" height="" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="">
+ 
 - 🌱 I’m currently working on **My Portfolio Website.**
 
 - 💬 Ask me about: **Web Development [HTML, CSS, JS]**
@@ -32,7 +34,7 @@
 - ⚡ Fun fact? **I am irfn! ;)**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-  <img width="25%" height=""  src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" alt="">
+  <img width="45%" height="" src=https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="">
 
     <!-- My Social Handles -->
 
