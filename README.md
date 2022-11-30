@@ -21,7 +21,7 @@
 <!-- My Details -->
 <p>
  
-   <img align="right" width="40%" height="" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="">
+   <img align="right" width="45%" height="" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="">
  
 - 🌱 I’m currently working on **My Portfolio Website.**
 
