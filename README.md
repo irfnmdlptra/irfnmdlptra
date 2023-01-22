@@ -13,6 +13,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
 <h2 style="text-align: center;">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Irfan Syahputra.</h2>
+<h3>Junior web developer from Indonesia</h3>
 <hr>
 <br>
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
