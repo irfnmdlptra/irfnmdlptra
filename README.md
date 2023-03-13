@@ -3,7 +3,7 @@
 <div class="container" style="background-color:black ;">
 <div class="banner"  style="display: flex;" style="text-align: center;" style="align-items: center;">
 
- <img width="100%" height="" src="https://indoanalytica.com/static/images/bannerr.gif" alt="">
+
 
 </div>
 </div>
@@ -16,13 +16,11 @@
 <h3>Junior web developer from Indonesia</h3>
 <hr>
 <br>
-<p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
-</p>
 
 <!-- My Details -->
 <p>
  
-   <img align="right" width="45%" height="" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" alt="">
+  
  
 - 🌱 I’m currently working on **My Portfolio Website.**
 
@@ -35,7 +33,6 @@
 - ⚡ Fun fact? **I am irfn! ;)**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-  <img width="45%" height="" src=https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="">
 
     <!-- My Social Handles -->
 
@@ -49,4 +46,3 @@
 
 <!-- Footer -->
 
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
