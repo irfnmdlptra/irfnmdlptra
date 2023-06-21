@@ -35,7 +35,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 <img align="right"  width="200" alt="GIF" src="https://media4.giphy.com/media/LO7w5mWIrKrbSwLyxQ/200w.webp"/>
 <img align="right"  width="200" alt="GIF" src="https://media0.giphy.com/media/QAVKDwmWjMUFPvxUcH/200w.webp"/>
  
